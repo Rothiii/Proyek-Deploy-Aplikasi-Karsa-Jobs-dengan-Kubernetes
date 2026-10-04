@@ -1,0 +1,14 @@
+.DS_Store
+
+# Node
+node_modules
+npm-debug.log*
+yarn-error.log*
+
+# Build output
+dist
+static
+
+# Env
+.env.local
+.env.*.local
