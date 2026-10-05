@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Nama pengguna GitHub
-GITHUB_USERNAME="rothiiimakruf"
+GITHUB_USERNAME="rothiii"
 
 # Nama image
 IMAGE_NAME="karsajobs"

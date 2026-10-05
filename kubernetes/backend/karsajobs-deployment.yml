@@ -19,7 +19,7 @@ spec:
     spec:
       containers:
         - name: karsajobs-backend # Nama container dalam Pod
-          image: ghcr.io/rothiiimakruf/karsajobs:latest # Image container dari GitHub Container Registry (GHCR)
+          image: ghcr.io/rothiii/karsajobs:latest # Image container dari GitHub Container Registry (GHCR)
 
           ports:
             - containerPort: 8080 # Port yang diekspos oleh container di dalam Pod
